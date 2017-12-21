@@ -13,3 +13,4 @@ function removeFromPlaylist(playlist, artistName) {
 
 updatePlaylist(playlist, "chica", "pickles")
   delete playlist.chica;
+console.log(playlist)
