@@ -8,4 +8,4 @@ var meals = new Object({
 });
 
 
-console.log meals['lunch']
+console.log meals['breakfast']
