@@ -6,4 +6,4 @@ var meals = {
   dinner: 'cheetos'
 };
 
-meals.lunch
+return meals.lunch
