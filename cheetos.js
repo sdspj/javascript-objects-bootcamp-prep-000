@@ -5,4 +5,4 @@ var meals = {
   lunch: 'eggs',
   dinner: 'cheetos'
 };
-console.log(meals.lunch)
+console.log(meals.breakfast)
