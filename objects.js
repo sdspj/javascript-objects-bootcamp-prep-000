@@ -11,3 +11,4 @@ function removeFromPlaylist(playlist, artistName) {
 }
 
 removeFromPlaylist(playlist, "taylor")
+console.log(playlist)
