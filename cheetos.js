@@ -6,4 +6,3 @@ var meals = new Object({
   lunch: 'eggs'
   dinner: 'cheetos'
 });
-
