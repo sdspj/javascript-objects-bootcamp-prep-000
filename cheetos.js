@@ -5,3 +5,5 @@ var meals = {
   lunch: 'eggs',
   dinner: 'cheetos'
 };
+
+meals.lunch
