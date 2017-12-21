@@ -1,2 +1,7 @@
+var playlist = {
+  taylor swiz: 'red'
+}
 
-console.log "hello workld"
+function updatePlaylist(p, a, s) {
+  return p[a] = s
+}
