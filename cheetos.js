@@ -8,4 +8,4 @@ var meals = {
 
 meals['second breakfast'] = 'bagel'
 
-console.log(meals.[second breakfast])
+console.log(meals[second breakfast])
