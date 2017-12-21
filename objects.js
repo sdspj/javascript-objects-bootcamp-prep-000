@@ -11,6 +11,3 @@ function removeFromPlaylist(playlist, artistName) {
   return playlist
 }
 
-updatePlaylist(playlist, "chica", "pickles")
-  delete playlist.chica;
-console.log(playlist)
