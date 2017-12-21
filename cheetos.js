@@ -9,7 +9,7 @@ var vegetables = {
   fav: 'broccoli',
   gross: 'peas'
 }
-meals[second breakfast] = 'bagel'
+meals[secondbreakfast] = 'bagel'
 
 console.log(meals['second breakfast'])
 
