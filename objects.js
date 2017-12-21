@@ -12,4 +12,4 @@ function removeFromPlaylist(playlist, artistName) {
 }
 
 updatePlaylist(playlist, "chica", "pickles")
-removeFromPlaylist(playlist, "chica")
+  delete playlist.chica;
