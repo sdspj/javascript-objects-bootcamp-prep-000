@@ -18,4 +18,5 @@ function updateObjectWithObject(targetObject, updatesObject) {
   console.log(Object.assign({}, targetObject, updatesObject))
 }
 
-updateObjectWithObject(meals, vegetables)
+delete vegetables.fav;
+console.log(vegetables)
