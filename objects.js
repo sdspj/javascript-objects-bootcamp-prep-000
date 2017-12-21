@@ -1,4 +1,4 @@
-var playlist = new Object({ taylor swiz: 
+var playlist = new Object({ taylor swiz:
   "red"
 })
 
