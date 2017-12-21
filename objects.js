@@ -1,10 +1,11 @@
-var meals2 = { breakfast: "oatmeal"}
 
-var meals = new Object({ 
-  breakfast: 'oatmeal'
+const firstMeal = 'breakfast'
+
+var meals = new Object({
+  [firstMeal]: 'oatmeal'
   lunch: 'eggs'
   dinner: 'cheetos'
 });
 
 
-meals['lunch']
+console.log meals['lunch']
