@@ -15,7 +15,7 @@ console.log(meals['second breakfast'])
 
 
 function updateObjectWithObject(targetObject, updatesObject) {
-  return Object.assign({}, targetObject, updatesObject)
+  console.log(Object.assign({}, targetObject, updatesObject))
 }
 
 updateObjectWithObject(meals, vegetables)
