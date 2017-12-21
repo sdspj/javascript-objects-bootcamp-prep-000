@@ -5,5 +5,4 @@ var meals = {
   lunch: 'eggs',
   dinner: 'cheetos'
 };
-
-return meals.lunch
+console.log(meals.lunch)
