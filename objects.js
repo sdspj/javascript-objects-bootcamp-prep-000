@@ -10,4 +10,4 @@ function removeFromPlaylist(playlist, artistName) {
   return playlist
 }
 
-removeFromPlaylist(playlist, taylor)
+removeFromPlaylist(playlist, "taylor")
