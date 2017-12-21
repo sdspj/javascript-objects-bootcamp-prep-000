@@ -4,5 +4,5 @@ var playlist = new Object({ taylor swiz:
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
-  returm playlist
+  return playlist
 }
